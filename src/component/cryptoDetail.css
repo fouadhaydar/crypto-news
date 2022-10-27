@@ -1,0 +1,28 @@
+.other-statistics,
+.coin-value-statistic {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.main-row {
+    justify-content: space-between;
+}
+
+.coin-stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #BDBDBD
+}
+
+.coin-stats .value {
+    font-weight: bold;
+}
+.coin-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #BDBDBD
+}

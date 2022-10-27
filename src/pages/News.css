@@ -1,0 +1,15 @@
+.first-container .second-container .card a .news-img-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.first-container .second-container .card a .provider-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .first-container .second-container .card {
+    background-color: ;
+} */
